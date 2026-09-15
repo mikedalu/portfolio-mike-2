@@ -1,0 +1,38 @@
+.my-btn {
+  background-color: rgb(200, 39, 39);
+}
+
+.my-btn:hover {
+  background-color: rgb(217, 149, 149);
+}
+.hero {
+  background-color: rgb(193, 193, 205);
+}
+
+.right {
+}
+
+.hero-container {
+  height: 70vh;
+  margin-bottom: 50px;
+}
+
+.about {
+  margin: 50px auto;
+  width: 700px;
+}
+
+.my-form {
+  width: 700px;
+  margin: 0 auto;
+}
+.my-footer {
+  height: 300px;
+  width: 100%;
+  padding-top: 30px;
+  background-color: black;
+}
+
+.my-image {
+  width: 100%;
+}
